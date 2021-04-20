@@ -18,9 +18,6 @@ const Nav = () => {
                 <Link to="/portfolio" className="nav-link" href="#">Portfolio</Link>
                 </li>
                 <li className="nav-item">
-                <Link to="/resume" className="nav-link" href="#"></Link>
-                </li>
-                <li className="nav-item">
                 <Link to="/contact" className="nav-link" href="#">Contact</Link>
                 </li>
             </ul>
